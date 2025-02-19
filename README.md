@@ -10,9 +10,6 @@ Benefits of Using Terraform Modules
 
 ✅ Simplifies Maintenance – Modify one module, affect all uses.
 
-if you interested, please check it here the source code -
-
-
 
 🔥 What This Setup Does
 ✅ Creates an EKS Cluster
